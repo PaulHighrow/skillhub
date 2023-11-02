@@ -9,6 +9,7 @@ import { LeadBtn, wobblyOutline } from 'components/Menu/Menu.styled';
 import sketchOutlineSmall from 'img/svg/sketchOutlineSmall.svg';
 
 export const EdCenterBackground = styled(BackgroundWrapper)`
+background-color: var(--secondary-color);
   background-position: left -70px top 0;
 
   @media screen and (min-width: 768px) {

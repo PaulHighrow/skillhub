@@ -7,7 +7,7 @@ import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename='/aggregator'>
+    <BrowserRouter basename='/skillhub'>
       <App />
     </BrowserRouter>
   </React.StrictMode>

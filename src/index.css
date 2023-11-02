@@ -2,8 +2,8 @@
 @import '../node_modules/modern-normalize/modern-normalize.css';
 
 :root {
-  --main-color: #0B4943;
-  --secondary-color: #ffffff;
+  --main-color: #FDCC00;
+  --secondary-color: #1e1e1e;
   --secondary-burnt-color: #fffffff0;
   --main-transparent-color: #0f645b1c;
   --secondary-transparent-color: #ffffff1c;

@@ -17,6 +17,7 @@ const pathAnimation = keyframes`
 `;
 
 export const ExamCenterBackground = styled(BackgroundWrapper)`
+background-color: var(--secondary-color);
   background-position: left -70px bottom 0px;
 
   @media screen and (min-width: 768px) {

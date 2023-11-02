@@ -49,7 +49,7 @@ export const SocialLogoLink = styled.a`
 `;
 
 export const FooterLogo = styled(Logo)`
-  width: 60px;
+  width: 65px;
   display: block;
   flex-shrink: 0;
   margin: 0 auto;
@@ -63,11 +63,12 @@ export const FooterLogo = styled(Logo)`
   }
 
   @media screen and (min-width: 768px) {
-    width: 64px;
+    width: 80px;
   }
 
   @media screen and (min-width: 1280px) {
     margin-bottom: 0;
+    width: 100px;
   }
 `;
 
